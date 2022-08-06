@@ -7,6 +7,5 @@ test/demo/.cache/
 test/demo/dist/
 *.mov
 
-dist/
 
 .cache/
